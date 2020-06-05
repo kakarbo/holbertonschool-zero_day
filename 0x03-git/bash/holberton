@@ -1,9 +1,4 @@
 #!/bin/bash
 
-<<<<<<< HEAD
-echo "Holberton School is so cool!"
-||||||| merged common ancestors
-echo "Holberton"
-=======
 echo "Holberton School"
->>>>>>> origin/update_script
+
